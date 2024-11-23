@@ -13,7 +13,7 @@ namespace HideSteamName {
     internal static class PluginInfo {
         public const string PLUGIN_NAME = "Hide Steam Name";
 
-        public const string PLUGIN_ID = "flowndev.com.hidesteamname";
+        public const string PLUGIN_ID = "com.flowndev.hidesteamname";
 
         public const string PLUGIN_VERSION = "1.0.0";
     }
