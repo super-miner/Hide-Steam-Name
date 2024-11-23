@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HideSteamName", "HideSteamName\HideSteamName.csproj", "{E6E6D840-CD96-4B88-81D8-3EF7C58EFF11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6E6D840-CD96-4B88-81D8-3EF7C58EFF11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6E6D840-CD96-4B88-81D8-3EF7C58EFF11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6E6D840-CD96-4B88-81D8-3EF7C58EFF11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6E6D840-CD96-4B88-81D8-3EF7C58EFF11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
